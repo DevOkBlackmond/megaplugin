@@ -1,6 +1,6 @@
 # MegaPlugin de ZUPER
 
-El plugin oficial de **ZUPER**. Una vez agregado, la app arma su inicio completo con catálogo, búsqueda, TV en vivo y
+Una vez agregado, la app arma su inicio completo con catálogo, búsqueda, TV en vivo y
 eventos.
 
 ## Cómo agregarlo
@@ -26,6 +26,6 @@ El MegaPlugin es un **indexador**: muestra enlaces que encuentra públicamente e
 
 - No aloja, no sube ni almacena ningún contenido.
 - No es dueño de ningún contenido: cada contenido pertenece a sus titulares y está en sus propios servidores.
-- ZUPER y el MegaPlugin no controlan esos sitios ni responden por lo que publican.
+- El MegaPlugin no controlan esos sitios ni responden por lo que publican.
 
 Si eres titular de derechos y quieres que un enlace deje de indexarse, abre un *issue* en este repositorio.
